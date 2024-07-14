@@ -1,4 +1,4 @@
-# Brain Tumor Detection Streamlit App By Shantanu Vedante
+# Brain Tumor Detection Streamlit App 
 
 ## Description
 This Streamlit app allows you to upload an MRI image and predict if there's a brain tumor or not. The app uses a trained Keras model to make the predictions.
