@@ -32,6 +32,6 @@ To use the Brain Tumor Detection Streamlit App, follow these steps:
 ```
 ## Author
 
-This project was created by [Shantanu Vedante]((https://github.com/coderx0319)). You can connect with me on [LinkedIn]((https://www.linkedin.com/in/shantanuvedante23/)) and follow me [here]
+This project was created by [Shantanu Vedante](https://github.com/coderx0319/). You can connect with me on [LinkedIn](https://www.linkedin.com/in/shantanuvedante23/) and follow me [[here](https://github.com/coderx0319)]
 
 
